@@ -22,4 +22,5 @@
 
 ## 🎭Stats
 ![ABGrade's Stats](https://github-readme-stats.vercel.app/api?username=ABGrade&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ABGrade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABGrade&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![ABGrade's Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=ABGrade&layout=donut&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
