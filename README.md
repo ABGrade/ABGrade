@@ -1,5 +1,5 @@
 # ABGrade🔜
-<p style="font-size:12px;"><em>Не забыть вставить описание</em></p>
+<p style="font-size:6px;"><em>Не забыть вставить описание</em></p>
 <br />
 
 ## ♿Languages
